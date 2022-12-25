@@ -1,0 +1,4 @@
+*.zip
+*.jupyterlab-workspace
+AutogluonModels/
+.ipynb_checkpoints/
